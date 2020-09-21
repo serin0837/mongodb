@@ -7,7 +7,8 @@
   - client - mongoose(server node) - mongodb
 - 2. install
 
-  - I download mongoDb locally and "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"- run mongodb
+  - I download mongoDb locally 
+  - cd data dir check da is there and "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"- run mongodb
   - clone ninja repo
   - install mongoose
 
